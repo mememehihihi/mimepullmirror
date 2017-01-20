@@ -67,6 +67,7 @@ import java.util.logging.Level;
  */
 class MIMEParser implements Iterable<MIMEEvent> {
     
+    /* adding a test comment. */
     private static final Logger LOGGER = Logger.getLogger(MIMEParser.class.getName());
 
     private static final String HEADER_ENCODING = "ISO8859-1";
